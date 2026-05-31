@@ -36,13 +36,11 @@ This repository contains an end-to-end Power BI project analyzing annual retail 
 
 ## Dashboard Previews
 
-*(Note: Add the dashboard screenshot files to your repository's `images` folder and update the links below)*
-
 **1. Main Sales Performance Dashboard**
-![Annual Retail Sales Performance](images/dashboard_main.jpg)
+<img width="769" height="431" alt="1" src="https://github.com/user-attachments/assets/f7bddfe3-0343-49ab-b88e-1d778ee7c9c9" />
 
 **2. Sales Drivers by Category & Region**
-![Sales Drivers by Category](images/dashboard_category.png)
+<img width="765" height="424" alt="2" src="https://github.com/user-attachments/assets/17e7188b-b1ed-4272-9177-b843d544ffb8" />
 
 ## Strategic Recommendations
 Based on the data analysis, the following strategic steps are recommended:
@@ -50,7 +48,3 @@ Based on the data analysis, the following strategic steps are recommended:
 2. **Market Penetration:** While maintaining dominance in Maharashtra, develop targeted marketing campaigns to increase market share in underperforming states to reduce regional dependency.
 3. **Inventory Planning:** Align inventory procurement with the observed seasonal peaks (e.g., preparing for the March surge) and optimize stock during slower months like July.
 4. **Payment Incentives:** Offer slight discounts or loyalty points for prepaid/digital transactions to reduce the high reliance on Cash on Delivery (COD) and improve immediate cash flow.
-
-## Author
-Data Analyst / Business Intelligence Enthusiast
-[Link to your LinkedIn Profile] | [Link to your Portfolio]
